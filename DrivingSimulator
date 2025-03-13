@@ -70,7 +70,7 @@ public class Main {
             }
         }
         // TODO 6: Make sure the program runs until the user decides it's time to stop. Consider enclosing TODO 2 -> TODO 5 above in a while loop!
-        //Done, enclosed it is while loop
+        //Done, enclosed it in while loop
 
     }
 }
